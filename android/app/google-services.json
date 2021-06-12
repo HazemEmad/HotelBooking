@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "449727966796",
+    "project_id": "hotel-booking-df757",
+    "storage_bucket": "hotel-booking-df757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449727966796:android:f8fefb9a9978e18d4bcee9",
+        "android_client_info": {
+          "package_name": "com.hotelbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449727966796-etke0j03t39h2uosrs3igao7ness7tt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQttNcJFLnRDz8GAT9zua6AD1qbBvI3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449727966796-etke0j03t39h2uosrs3igao7ness7tt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449727966796:android:67bbf0d5ff2d98894bcee9",
+        "android_client_info": {
+          "package_name": "com.hotelbooking2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449727966796-r360qh0h3maior0u8lekoih9t45d956l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hotelbooking2",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "449727966796-etke0j03t39h2uosrs3igao7ness7tt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYQttNcJFLnRDz8GAT9zua6AD1qbBvI3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449727966796-etke0j03t39h2uosrs3igao7ness7tt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
